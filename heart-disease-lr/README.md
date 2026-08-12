@@ -176,7 +176,7 @@ inputs for the SageMaker run.
 
 ![SageMaker test metrics](images/sagemaker_test_metrics.png)
 
-#### NO TUVE CONEXION, No pude probar el ejercicio en la nube 
+#### I HAD NO CONNECTION, I couldn't test the exercise in the cloud
 <img width="947" height="142" alt="image" src="https://github.com/user-attachments/assets/9bd8d21d-f07b-47be-b57e-d099c64d0fc7" />
 
 ### Results and comparison with the local execution
