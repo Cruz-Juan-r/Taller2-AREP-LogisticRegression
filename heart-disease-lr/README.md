@@ -176,12 +176,15 @@ inputs for the SageMaker run.
 
 ![SageMaker test metrics](images/sagemaker_test_metrics.png)
 
+#### NO TUVE CONEXION, No pude probar el ejercicio en la nube 
+<img width="947" height="142" alt="image" src="https://github.com/user-attachments/assets/9bd8d21d-f07b-47be-b57e-d099c64d0fc7" />
+
 ### Results and comparison with the local execution
 
 | Environment | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
 | Local (`heart_disease_lr_analysis.ipynb`) | 0.7889 | 0.8000 | 0.8163 | 0.8081 |
-| SageMaker training job (`ml.m5.large`) | *(fill in from the notebook output)* | | | |
+| SageMaker training job (`ml.m5.large`) |  | | | |
 
 The algorithm is fully **deterministic** — zero initialization, full-batch gradient descent, a fixed
 number of iterations, and data standardized *before* upload — so the cloud metrics reproduce the
