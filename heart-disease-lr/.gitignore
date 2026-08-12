@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+model/
+*.tar.gz
+
+.venv/
+venv/
+env/
+
+_verify_model/
+.DS_Store
